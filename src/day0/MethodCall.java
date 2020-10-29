@@ -6,7 +6,6 @@ public class MethodCall {
 
         String str = "Cybertek School";
 
-
         String str2 = "abcabcaaaaabbbbbbcccccddddeeeeeee";
 
 
